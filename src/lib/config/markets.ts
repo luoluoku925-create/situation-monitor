@@ -47,7 +47,11 @@ export const INDICES = [
 
 // Crypto assets tracked
 export const CRYPTO = [
-	{ id: 'bitcoin', symbol: 'BTC', name: 'Bitcoin' },
-	{ id: 'ethereum', symbol: 'ETH', name: 'Ethereum' },
-	{ id: 'solana', symbol: 'SOL', name: 'Solana' }
+  { id: 'bitcoin', symbol: 'BTC', name: 'Bitcoin' },
+  { id: 'ethereum', symbol: 'ETH', name: 'Ethereum' },
+  { id: 'solana', symbol: 'SOL', name: 'Solana' },
+  { id: 'ripple', symbol: 'XRP', name: 'XRP' },
+  { id: 'the-open-network', symbol: 'TON', name: 'TON' },
+  { id: 'virtual-protocol', symbol: 'VIRTUAL', name: 'VIRTUAL' },
+  { id: 'shiba-inu', symbol: 'SHIB', name: 'SHIB' }
 ];
